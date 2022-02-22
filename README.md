@@ -26,3 +26,14 @@ Run the script `inference.py` for running inference and getting the test scores
 ```
 python inference.py
 ```
+
+##Citation:
+If you find this code useful kindly cite our work:-)
+Nasser, S.A., Shamsi, S., Bundele, V., Garg, B. and Sethi, A., 2022. Perceptual cGAN for MRI Super-resolution. arXiv preprint arXiv:2201.09314.
+
+@article{nasser2022perceptual,
+  title={Perceptual cGAN for MRI Super-resolution},
+  author={Nasser, Sahar Almahfouz and Shamsi, Saqib and Bundele, Valay and Garg, Bhavesh and Sethi, Amit},
+  journal={arXiv preprint arXiv:2201.09314},
+  year={2022}
+}
